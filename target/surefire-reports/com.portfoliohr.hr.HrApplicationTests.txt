@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portfoliohr.hr.HrApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.565 s - in com.portfoliohr.hr.HrApplicationTests
